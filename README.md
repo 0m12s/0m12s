@@ -1,9 +1,7 @@
-![MasterHead](https://www.krea.ai/api/img?f=webp&i=https%3A%2F%2Ftest1-emgndhaqd0c9h2db.a01.azurefd.net%2Fimages%2F7d06b912-444c-4f71-bc1a-9d074bf49190.png)
-
-
+![MasterHead](https://www.krea.ai/api/img?f=webp&i=https%3A%2F%2Ftest1-emgndhaqd0c9h2db.a01.azurefd.net%2Fimages%2Fc6e27d8e-3bb3-4a48-87c8-b6e149788ac0.png)
 <h1 align="center">Hi 👋, I'm Om Sood</h1>
 <h3 align="center"> "Backend Developer | Skilled in Java, Spring Boot, and System Design"</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0m12s&label=Profile%20views&color=0e75b6&style=flat" alt="0m12s" /> </p>
 
