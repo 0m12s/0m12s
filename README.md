@@ -11,7 +11,7 @@
 
 - 📧**omsood1205@gmail.com**
 
-- <a href="https://www.overleaf.com/read/vgbctffnvsrx#d99f34" target="blank"><img align="center" src="https://img.freepik.com/free-vector/resume-cv-job-composition-with-flat-isolated-text-with-woman-paper-profiles-pinned-letters-vector-illustration_1284-84164.jpg?uid=R165700793&ga=GA1.1.1527099655.1727544247&semt=ais_hybrid" height="60" width="210"/>
+- <a href="https://drive.google.com/file/d/1kS43LvGnxZSTbXRg3k1jWZGwxMe40E6X/view?usp=drive_link" target="blank"><img align="center" src="https://img.freepik.com/free-vector/resume-cv-job-composition-with-flat-isolated-text-with-woman-paper-profiles-pinned-letters-vector-illustration_1284-84164.jpg?uid=R165700793&ga=GA1.1.1527099655.1727544247&semt=ais_hybrid" height="60" width="210"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
