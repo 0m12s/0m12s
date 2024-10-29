@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Om+Sood!;" />
 </h1>
 <h3 align="center"> "Backend Developer | Skilled in Java, Spring Boot, and System Design"</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300"  src="https://imgs.search.brave.com/L1do8Gd1lrhgKTFn1_MgxiXsKkmfv3qxfAbJLT0WSMI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL2JHZ3Nj/NW1Xb3J5ZmdLQngx/dS9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/YmZlbzJuZHE1aGl5/NjQyYzhtdzdodWQ5/aDQ1NW5obzk0bWM2/cGdlaSZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0m12s&label=Profile%20views&color=0e75b6&style=flat" alt="0m12s" /> </p>
 
