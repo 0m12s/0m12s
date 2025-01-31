@@ -1,8 +1,12 @@
 ![MasterHead](https://www.krea.ai/api/img?f=webp&i=https%3A%2F%2Ftest1-emgndhaqd0c9h2db.a01.azurefd.net%2Fimages%2Fc6e27d8e-3bb3-4a48-87c8-b6e149788ac0.png)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Om+Sood!;" />
+    <p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 </h1>
 <h3 align="center"> "Backend Developer | Skilled in Java, Spring Boot, and System Design"</h3>
+
 <img align="right" alt="Coding" width="300"  src="https://imgs.search.brave.com/L1do8Gd1lrhgKTFn1_MgxiXsKkmfv3qxfAbJLT0WSMI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL2JHZ3Nj/NW1Xb3J5ZmdLQngx/dS9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/YmZlbzJuZHE1aGl5/NjQyYzhtdzdodWQ5/aDQ1NW5obzk0bWM2/cGdlaSZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif">
 
 
