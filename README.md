@@ -53,9 +53,11 @@
 
 | Project | Description |
 |-------|-------------|
+| **Portfolio** | Personal portfolio website showcasing projects, skills, and contact information |
 | **Fusion2048** | Full-stack web application with JWT authentication, Spring Boot backend, and PostgreSQL database |
+| **DSA Repository** | 200+ Data Structures & Algorithms problems solved in Java |
 | **Directly Chat App** | Secure chat application with authentication and persistent messaging |
-| **DSA Repository** | 120+ Data Structures & Algorithms problems solved in Java |
+
 
 
 # 📊 GitHub Stats
