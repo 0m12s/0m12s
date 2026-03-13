@@ -97,7 +97,7 @@ Backend Developer | Java • Spring Boot • PostgreSQL
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/0m12s/0m12s/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/0m12s/0m12s/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
