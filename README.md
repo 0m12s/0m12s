@@ -86,13 +86,18 @@ Backend Developer | Java • Spring Boot • PostgreSQL
 
 ---
 
-# 📈 Contribution Graph
-
+<h2 align="center">📈 Contribution Activity</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0m12s&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0m12s&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
+<h2 align="center">🧠 LeetCode Stats</h2>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/SD_Om12?theme=dark&font=Nunito&ext=contest"/>
+</p>
 
 # 🐍 Contribution Snake
 
