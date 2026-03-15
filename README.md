@@ -7,7 +7,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3800&pause=1200&center=true&vCenter=true&width=720&color=00F5FF&lines=Hi+👋,+I'm+Om+Sood+–+Java+Backend+Developer;Hi+👋,+I'm+Om+Sood+–+Spring+Boot+%7C+REST+APIs;Hi+👋,+I'm+Om+Sood+–+Full+Stack+Web+Developer;Hi+👋,+I'm+Om+Sood+–+Backend+Systems+Developer;Hi+👋,+I'm+Om+Sood+–+PostgreSQL+%7C+Database+Design;Hi+👋,+I'm+Om+Sood+–+DSA+%7C+Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3800&pause=1200&center=true&vCenter=true&width=720&color=00F5FF&lines=Hi+👋,+I'm+Om+Sood+–+Java+Backend+Developer;Hi+👋,+I'm+Om+Sood+–+Spring+Boot+%7C+REST+APIs;Hi+👋,+I'm+Om+Sood+–+Full+Stack+Web+Developer;Hi+👋,+I'm+Om+Sood+–+Backend+Systems+Developer;Hi+👋,+I'm+Om+Sood+–+DSA+%7C+Problem+Solver"/>
 </p>
 
 
